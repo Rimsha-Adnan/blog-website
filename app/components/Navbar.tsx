@@ -115,7 +115,7 @@ function Navbar() {
           <li className="text-[#BB5A3A] cursor-pointer"><Link href="/">Home</Link></li>
           <li className="text-black cursor-pointer"><Link href="/blog">My Blog</Link></li>
           <li className="text-black cursor-pointer"><Link href="/about">About</Link></li>
-          <li className="text-black cursor-pointer"><Link href="/contact">Contact</Link></li>
+          <li className="text-black cursor-pointer"><Link href="#contact">Contact</Link></li>
         </ul>
       </div>
     </div>

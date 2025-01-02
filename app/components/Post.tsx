@@ -9,7 +9,7 @@ import Link from "next/link";
 const Post = () => {
   return (
     <div>
-      <div className="flex  flex-col md:flex-row justify-center  md:h-auto gap-8 md:gap-40 ml-4 mt-28">
+      <div className="flex  flex-col md:flex-row justify-center  md:h-auto gap-8 md:gap-40 ml-4 mr-4 mt-28">
         <div className="flex flex-col gap-y-8 w-full md:w-[598px]">
           {/* Blog Post 1 */}
           <div className="h-auto md:h-[359px]  border border-slate-200 ">
